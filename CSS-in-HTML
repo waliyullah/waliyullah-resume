@@ -1,0 +1,107 @@
+  <!DOCTYPE html>
+ <html>
+  <head>
+    <title>Jimoh Waliyullah Resume</title>
+  </head>
+
+  <header style='background-color:;'><P><big><h2 style='color:green;'><b style='color:black;'><h1 align="center">JIMOH<hi style='color:green;'> WALIYULLAH<sub><image src='https://res.cloudinary.com/waliyullah/image/upload/v1566651462/alim_yj6omb-Thumbnail_pciwcb.jpg' controls width='120' height='100' ></sub></h1></image></P></big></header>
+    <body>
+      <p><i><h4 align="center">Location: <a href='https://en.wikipedia.org/wiki/Cross_River_State' target='_blank' style='color:black;'>Cross River State, Nigeria</p></a>
+      <p>E-mail: <a href='https://www.gmail.com' target='_blank' style='color:black;'>Waliyullahjimoh@gmail.com</p></a>
+      <p><i>Contact: +2349018048538</p></i></h4>
+  </br>
+</br>
+    <hr>
+        <h2 style='color: green;'>Summary</h2>
+          <p><i>Efficiently innovative intermediate computer programmer. Competent in working
+          with a variety of </br> software and technology, with a valuable exploit in diagnosing and developing solutions.
+         Ample </br> expertise working with a mainframe computer. An artistic leader with accertic ideas and chronicle </br> of success.</i></p>
+      </br>
+    </br>
+      <hr>
+        <h2 style='color:green;'>Experience</h2>
+        <ul>
+          <p><i><li>December 2017 - April 2018</p></li>
+          <p>Access Computers and Allied Industries, Calabar C.R.S - Automation/Software Engineer.</p>
+          <!--UPDATE FOR LOCATON OF ACCESS COMPUTERS-->
+        <p><li>April 2018 - December 2018</p></li>
+            <p><i><a href='https://bezstores.com/#!/home' target='_blank' style='color:black;'>Bez Pharmaceuticals & Stores Ltd,</a> Uyo A.K.S - Database Manager/Software Engineer.</i></p>
+          </ul>
+        </br>
+      </br>
+      <hr>
+        <h2 style='color: green;'>Skills</h2>
+        <ul>
+              <p><i><li>Advanced knowledge in computer development software including Html5, Python,
+          CSS,</br> javascript and Godot engine.</p></li>
+
+              <p><li>Highly organised with an exceptional commitment to task completion and quality
+          assurance </br> when working with computer software programmes.</p></li>
+              <p><li>Ability to solve complex problems successfully with minimal guidiance or help
+           using a logical </br>reasoning technique and strong attention to detail.</p></i></li>
+         </ul>
+        </br>
+       </br>
+       <hr>
+         <h2 style='color: green;'>Education</h2>
+         <ul>
+          <p><i><li>June 2004 - November 2009</p></i></li>
+            <p><i><a href='https://businesses.connectnigeria.com/view_details/emmanice-nursery-and-primary-school-539656.html' target='_blank' style='color:black;'>Emmanice Nursery and Primary School C.R.S</i></p></a>
+          <p><i><li>April 2010 - September 2016</li></i></p>
+              <p><i><a href='https://web.facebook.com/GSS-Barracks-ROAD-1752716401691530/?_rdc=1&_rdr' target='_blank' style='color:black;'>Government Secondary School Barracks Road C.R.S</i></p></a>
+      <p><i><li>August 2017 - Febuary 2018</i></p></li>
+          <p><i><a href='https://www.zerolimit-resources.com' target='_blank' style='color:black;'>Zero Limit Computer Training Institute.</p></i></a>
+        </ul>
+        </br>
+      </br>
+     <hr>
+      <h2 style='color:green;'>Referee</h2>
+      <table>
+        <tr>
+          <ul>
+            <th>Chinedu Oyeka</th>
+            <th>Mr. Ajayi Lekan</th>
+            <th>Mr. Innocent Thomas</th>
+        </ul>
+        </tr>
+      <tr>
+        <ul>
+          <td><li>Manager</td></li>
+          <td><li>Director</td></li>
+          <td><li>Director</td></li>
+        </ul>
+      </tr>
+      <tr>
+        <ul>
+          <td><li>Bez pharmaceuticals & Stores Ltd.</td></li>
+          <td><li>Access Computers & Allied industries</td></li>
+          <td><li>Goodwill Saving Scheme</td></li>
+        </ul>
+      </tr>
+      <tr>
+        <ul>
+          <td><li>+2348185724096</td></li>
+          <td><li>+2347066683626</td></li>
+          <td><li>+2347013303875</td></li>
+        </ul>
+      </tr>
+      <tr>
+        <ul>
+          <!--important update for Px chival's email-->
+          <td></td>
+          <td><li>Email: Accomputers123@live.com</td></li>
+          <td><li>Email: Innthomas00158@gmail.com</td></li>
+      </ul>
+      </tr>
+    </table>
+    <hr>
+      <h2 style='color:green;'>Hobbies and Interest</h2>
+          <p><i>At the end of my workday, I prioritize on hobbies that are based on Computer and Technoloyg.</br>
+            I am a consultant at a local venture that aims to bring technology to every aspect of a business.</br>
+            I assist the elders and young people with getting connected with technology.</i></p>
+
+
+
+</table>
+  </body>
+ </html>
